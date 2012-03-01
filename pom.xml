@@ -10,7 +10,7 @@
 
   <groupId>org.agora-exchange.api</groupId>
   <artifactId>agora-common</artifactId>
-  <version>0.1.0</version>
+  <version>0.1.1-SNAPSHOT</version>
   <packaging>jar</packaging>
   <name>Agora Common</name>
   <description>Common Java API for Agora modules</description>
